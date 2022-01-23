@@ -7,7 +7,7 @@
 
 - Mój email **oli11ghyt.kontakt@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Znajdziesz mnie:</h3>
 <p align="left">
 <a href="https://fb.com/oli11gh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oli11gh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/oli11gh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oli11gh" height="30" width="40" /></a>
